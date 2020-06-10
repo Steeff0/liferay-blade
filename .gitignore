@@ -1,4 +1,2 @@
 .idea
-/blade/*
-!/blade/.gitkeep
 docker-compose.yml
